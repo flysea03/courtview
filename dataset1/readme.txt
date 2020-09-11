@@ -1,4 +1,4 @@
-Data to be uploaded soon. In the process of getting approval.
+Data to be uploaded soon. In the process of cleaning up.
 
 Files:
 xxx.s - source file, fact description
