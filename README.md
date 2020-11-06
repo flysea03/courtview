@@ -6,3 +6,5 @@ civil-law-articles.txt - all civil law articles
 criminal-law-articles.txt - all criminal law articles
 
 code - algorithm code
+
+human-evaluation - some human evaluation experiment results
