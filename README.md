@@ -8,3 +8,5 @@ criminal-law-articles.txt - all criminal law articles
 code - algorithm code
 
 human-evaluation - some human evaluation experiment results
+
+example - some examples of generated court opinions
